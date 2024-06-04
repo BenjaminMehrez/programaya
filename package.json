@@ -1,0 +1,12 @@
+{
+  "name": "programa-ya",
+  "version": "1.0.0",
+  "description": "Esta es una pagina que cree con deivchoi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Benjamin Mehrez",
+  "license": "ISC"
+}
