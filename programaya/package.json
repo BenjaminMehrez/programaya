@@ -4,7 +4,9 @@
   "description": "Esta es una pagina que cree con deivchoi",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "mkdir deploy",
+    "prebuild": "mkdir deploy"
   },
   "keywords": [],
   "author": "Benjamin Mehrez",
